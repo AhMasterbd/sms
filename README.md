@@ -19,6 +19,8 @@ pip install bs4
 
 pkg install git
 
+rm -rf sms
+
 git clone https://github.com/AhMasterbd/sms
 
 cd sms
