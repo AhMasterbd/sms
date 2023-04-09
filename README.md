@@ -25,4 +25,4 @@ git clone https://github.com/AhMasterbd/sms
 
 cd sms
 
-python bdsms.py
+python SMS.py
