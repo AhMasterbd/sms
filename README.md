@@ -25,4 +25,5 @@ git clone https://github.com/AhMasterbd/sms
 
 cd sms
 
-python SMS.py
+python sms.py
+
